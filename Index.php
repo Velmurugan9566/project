@@ -1,0 +1,3 @@
+<?php
+ inculde 'home.php';
+?>
